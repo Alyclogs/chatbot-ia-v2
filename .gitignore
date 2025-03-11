@@ -1,0 +1,4 @@
+.venv/
+lib/__pycache__/
+lib/har_and_cookies/
+.env
